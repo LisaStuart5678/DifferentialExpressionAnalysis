@@ -1,11 +1,11 @@
 # DifferentialExpressionAnalysis
 
-#---
-# title: "Differential Expression Analysis"
-# author: "Lisa Stuart"
-# date: "June 19, 2016"
-# output: html_document
-#---
+---
+ title: "Differential Expression Analysis"
+ author: "Lisa Stuart"
+ date: "June 19, 2016"
+ output: html_document
+---
 
 # Load the Bottomly data and perform a differential expression analysis using limma:
 
